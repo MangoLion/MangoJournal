@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MangoJournal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mEvent">Event</string>
+    <string name="mFeeling">Feeling</string>
+    <string name="mNote">Note</string>
+
+</resources>
